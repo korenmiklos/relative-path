@@ -73,7 +73,7 @@ This approach uses [here](https://github.com/korenmiklos/here), which can be ins
 
 I first mark the root folder of the project.
 ```stata
-cd ~/Documents/stata/code/relative-path
+cd ~/Documents/code/stata/relative-path
 here, set
 ```
 I only have to do it once. If the folder is a git repository, I don't even have to do this step.
